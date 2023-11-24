@@ -1,4 +1,4 @@
-import '../styles/ChooseUsItem.css'
+
 
 function ChooseUsItem (props) {
     return (

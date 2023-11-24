@@ -1,4 +1,4 @@
-import '../styles/homeChooseUsSection.css'
+
 import ChooseUsItem from '../components/ChooseUsItem'
 
 function HomeChooseUsSection () {

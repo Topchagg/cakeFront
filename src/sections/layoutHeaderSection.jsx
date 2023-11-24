@@ -3,7 +3,6 @@ import { useEffect, useState } from 'react'
 
 import { cart, userAction } from '../store'
 
-import '../styles/layoutHeaderSection.css'
 
 function Header () {
     

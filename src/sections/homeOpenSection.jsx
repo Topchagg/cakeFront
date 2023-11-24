@@ -2,7 +2,7 @@ import {Link} from 'react-router-dom'
 
 
 
-import '../styles/HomeOpenSection.css'
+
 
 import LinkButton from '../components/linkButton'
 
