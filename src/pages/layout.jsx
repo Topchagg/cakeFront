@@ -6,6 +6,10 @@ import Header from '../sections/layoutHeaderSection'
 import Footer from '../sections/layoutFooterSection'
 import Cart from "./cart"
 
+import '../styles/layoutFooterSection.css'
+import '../styles/layoutheaderSection.css'
+import '../styles/layoutStyles.css'
+
 
 
 

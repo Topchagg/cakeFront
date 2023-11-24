@@ -2,7 +2,9 @@ import { cart,fetchOrders } from "../store"
 
 import ItemInCart from "../components/itemInCart"
 
-
+import '../styles/cart.css'
+import '../styles/itemInCart.css'
+import '../styles/itemInOrderList.css'
 
 
 function Cart () {

@@ -1,6 +1,7 @@
 
 import {Link} from 'react-router-dom'
 
+import '../styles/componentsLinkButton.css'
 
 function LinkButton (props) {
     return (

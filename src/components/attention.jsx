@@ -1,6 +1,6 @@
 import { userAction } from '../store'
 
-
+import '../styles/attention.css'
 
 function Attention (props) {
 

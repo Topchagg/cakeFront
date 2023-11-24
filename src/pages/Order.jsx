@@ -2,7 +2,9 @@ import {userAction} from '../store'
 
 import OrderWrapperPreview from "../sections/orderWrapperPreview"
 
-
+import '../styles/orderPreview.css'
+import '../styles/orderWrapper.css'
+import '../styles/adminOrdersPage.css'
 
 
 function OrderPage () {

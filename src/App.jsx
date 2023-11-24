@@ -13,6 +13,12 @@ import UserOrders from './pages/userOrders'
 import OrderWrapper from './components/orderWrapper'
 
 
+
+
+import './styles/default.css'
+import './styles/texts.css'
+
+
 import Layout from './pages/layout'
 
 

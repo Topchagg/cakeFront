@@ -7,7 +7,7 @@ import Attention from '../components/attention.jsx'
 
 
 
-
+import '../styles/categoryItem.css'
 
 function CategoryItem(props) {
 
