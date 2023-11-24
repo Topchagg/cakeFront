@@ -1,0 +1,34 @@
+.categories-wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 390px);
+    grid-auto-rows: 640px;
+    justify-content: space-between;
+    column-gap: 20px;
+    width: 90%;
+    margin-left: 4%;
+} 
+
+.carousel-btn-wrapper {
+    width: 0%;
+    margin-left: 47.5%;
+    margin-top: 100px;
+} 
+
+.create {
+    position: absolute;
+    margin-left: 48%;
+    margin-top: -150px;
+}
+
+.creating-form-wrapper {
+    width: 40%;
+    height: 600px;
+    border: solid black 1px;
+    margin-left: 30%;
+}
+
+.input-wrapper {
+    display: flex;
+    width: 220px;
+    justify-content: space-around;
+}

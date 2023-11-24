@@ -1,0 +1,26 @@
+.wrapper-category-item {
+    height: 502px;
+    width: 440px;
+    margin-top: 60px;
+}
+
+.img-wrapper {
+    height: 100%;
+}
+
+.title-wrapper {
+    height: 50px;
+    font-size: 32px;
+    border: solid gray 1px;
+    text-align: center;
+
+}
+
+.title {
+    margin-top: 10px;
+}
+
+.img {
+    width: 100%;
+    height: 100%;
+}

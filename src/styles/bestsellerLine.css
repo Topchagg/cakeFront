@@ -1,0 +1,10 @@
+.bestseller-line {
+    height: 20px;
+    width: 440px;
+    position: absolute;
+    margin-top: -30px;
+    text-align: center;
+    font-size: 24px;
+}
+
+
