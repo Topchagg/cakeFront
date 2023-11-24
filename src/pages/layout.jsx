@@ -7,8 +7,8 @@ import Footer from '../sections/layoutFooterSection'
 import Cart from "./cart"
 
 import '../styles/layoutFooterSection.css'
-import '../styles/layoutheaderSection.css'
-import '../styles/layoutStyles.css'
+import '/src/styles/layoutheaderSection.css'
+import '/src/styles/layoutStyles.css'
 
 
 

@@ -6,13 +6,13 @@ import HomeCommentsSection from "../sections/homeCommentsSection"
 import HomeBestsellerSection from "../sections/homeBestsellerSection"
 import HomeIndividualOrderSection from '../sections/homeIndividualOrderSection'
 
-import '../styles/homeAboutUsSection.css'
-import '../styles/homeBestsellerSection.css'
-import '../styles/homeCatalogSection.css'
-import '../styles/homeChooseUsSection.css'
-import '../styles/homeCommentsSection.css'
-import '../styles/homeIndividualOrderSection.css'
-import '../styles/homeOpenSection.css'
+import '/src/styles/homeAboutUsSection.css'
+import '/src/styles/homeBestsellerSection.css'
+import '/src/styles/homeCatalogSection.css'
+import '/src/styles/homeChooseUsSection.css'
+import '/src/styles/homeCommentsSection.css'
+import '/src/styles/homeIndividualOrderSection.css'
+import '/src/styles/homeOpenSection.css'
 
 
 

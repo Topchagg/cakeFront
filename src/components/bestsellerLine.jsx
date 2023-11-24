@@ -1,5 +1,5 @@
 
-import '../styles/bestsellerLine.css'
+import '/src/styles/bestsellerLine.css'
 
 function BestsellerLine() {
     return (

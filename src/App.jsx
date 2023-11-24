@@ -15,8 +15,8 @@ import OrderWrapper from './components/orderWrapper'
 
 
 
-import './styles/default.css'
-import './styles/texts.css'
+import '/src/styles/default.css'
+import '/src/styles/texts.css'
 
 
 import Layout from './pages/layout'

@@ -1,7 +1,7 @@
 import CategoriesWrapper from "../sections/catalogCategoryWrapper"
 
-import '../styles/catalogCategoryWrapper.css'
-import '../styles/catalogItemsWrapper.css'
+import '/src/styles/catalogCategoryWrapper.css'
+import '/src/styles/catalogItemsWrapper.css'
 
 function CatalogPage () {
     return (

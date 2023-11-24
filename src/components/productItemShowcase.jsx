@@ -7,7 +7,7 @@ import AddButton from "./addButton"
 import { cart, userAction } from '../store'
 
 
-import '../styles/productItemShowcase.css'
+import '/src/styles/productItemShowcase.css'
 
 function ProductItem (props) {
 

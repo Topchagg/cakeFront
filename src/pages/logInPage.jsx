@@ -4,7 +4,7 @@ import { userAction } from '../store'
 
 import { useActionData } from 'react-router-dom'
 
-import '../styles/logInLogOutPage.css'
+import '/src/styles/logInLogOutPage.css'
 
 function LogInLogOutPage() {
     const [signIn, setSignIn] = useState(true)
